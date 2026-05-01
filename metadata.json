@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Thu Chi Doanh Nghiệp",
+  "description": "Ứng dụng quản lý thu chi, tài khoản, đối tượng và nhân sự cho doanh nghiệp với thiết kế React/Tailwind. Bao gồm cấu trúc Google Sheets và mã Google Apps Script mẫu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
